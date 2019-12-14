@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Apr 30 09:55:37 2019
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : UnAmiga_MIST_AGA
+Top-level Entity Name : UnAmiga_MIST_AGA_top
+Family : Cyclone IV E
+Device : EP4CE22F17C8
+Timing Models : Final
+Total logic elements : 21,537 / 22,320 ( 96 % )
+    Total combinational functions : 18,659 / 22,320 ( 84 % )
+    Dedicated logic registers : 11,007 / 22,320 ( 49 % )
+Total registers : 11007
+Total pins : 90 / 154 ( 58 % )
+Total virtual pins : 0
+Total memory bits : 291,968 / 608,256 ( 48 % )
+Embedded Multiplier 9-bit elements : 16 / 132 ( 12 % )
+Total PLLs : 2 / 4 ( 50 % )

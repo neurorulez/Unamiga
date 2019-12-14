@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Apr 30 09:36:06 2019
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : UnAmiga_MIST_AGA
+Top-level Entity Name : UnAmiga_MIST_AGA_top
+Family : Cyclone IV E
+Total logic elements : 23,602
+    Total combinational functions : 18,582
+    Dedicated logic registers : 11,039
+Total registers : 11039
+Total pins : 90
+Total virtual pins : 0
+Total memory bits : 291,968
+Embedded Multiplier 9-bit elements : 16
+Total PLLs : 2
